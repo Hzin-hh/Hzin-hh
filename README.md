@@ -1,66 +1,159 @@
-## Hi there This is Huang Zejin ! 
+## Hi there, I'm Huang Zejin 👋
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Software+Engineering+Student+%40+Nankai+University;Exploring+RAG+%2F+NLP+%2F+Skill+%2F+Knowledge+Graph;Always+learning%2C+building%2C+and+thinking+with+AI)
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineering+Student+%40+Nankai+University;Interested+in+RAG+%2F+NLP+%2F+Knowledge+Graph+%2F+AI+Agents;Learning%2C+building%2C+and+thinking+with+AI" alt="Typing SVG" />
 
-[![Github](https://img.shields.io/badge/Github-Hzin--hh-181717?style=for-the-badge&logo=github)](https://github.com/Hzin-hh)
-[![Gmail](https://img.shields.io/badge/Email-hzj__nankai%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hzj_nankai@163.com)
-[![Website](https://img.shields.io/badge/My%20Website-hzin--hh.github.io-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white)](https://hzin-hh.github.io/)
-[![Nankai University](https://img.shields.io/badge/Nankai%20University-Software%20Engineering-14B8A6?style=for-the-badge)](https://www.nankai.edu.cn/)
+<br/>
 
-</div>
-
-I am Huang Zejin, a student majoring in Software Engineering at Nankai University.
-
-#### Things I am currently working on :
-
-- RAG: Exploring retrieval-augmented generation systems and more reliable knowledge-enhanced question answering.
-- NLP: Learning natural language understanding, semantic representation, and information extraction.
-- Skill: Studying how agent capabilities can be packaged, invoked, and composed into practical workflows.
-- Knowledge Graph: Building interest in structured knowledge modeling, entity-relation organization, and graph reasoning.
-- My website: Please refer to [hzin-hh.github.io](https://hzin-hh.github.io/) for more details.
-
-#### Things recent ones I'm interested in :
-
-- RAG Evaluation: Retrieval quality, answer faithfulness, and hallucination mitigation.
-- Knowledge Graph Enhanced Retrieval: Combining structured knowledge with semantic search.
-- Agent Skill Composition: Tool use, capability orchestration, and reusable AI workflows.
-- NLP Information Extraction: Entity recognition, relation extraction, and knowledge construction.
-- LLM Applications: Building useful systems around language models and domain knowledge.
-
-#### Programming languages and tools :
-
-<p align="center">
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown"></code>
-</p>
-
-GitHub Activity Graph:
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hzin-hh&show_icons=true&theme=vue&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hzin-hh&layout=compact&theme=vue&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hzin-hh&theme=vue&hide_border=true)
-
-</div>
-
-Counting of visitors to this page in this section started from May 17, 2026
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hzin-hh&style=flat-square&color=14B8A6&label=Profile%20Views)
+<a href="https://github.com/Hzin-hh">
+  <img src="https://img.shields.io/badge/GitHub-Hzin--hh-181717?style=flat-square&logo=github" />
+</a>
+<a href="mailto:hzj_nankai@163.com">
+  <img src="https://img.shields.io/badge/Email-hzj__nankai%40163.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://hzin-hh.github.io/">
+  <img src="https://img.shields.io/badge/Website-hzin--hh.github.io-0EA5E9?style=flat-square&logo=githubpages&logoColor=white" />
+</a>
+<a href="https://www.nankai.edu.cn/">
+  <img src="https://img.shields.io/badge/Nankai%20University-Software%20Engineering-14B8A6?style=flat-square" />
+</a>
 
 </div>
 
 ---
 
-## If you want to contribute to any of my repositories, feel free to submit PRs, issues or just email me.
+### 🙋‍♂️ About Me
 
-#### Thanks for visiting
+I am **Huang Zejin**, a Software Engineering student at **Nankai University**.
+
+I am currently interested in **Retrieval-Augmented Generation**, **Natural Language Processing**, **Knowledge Graphs**, and **AI Agent Systems**.  
+I enjoy exploring how language models can better use external knowledge, structured information, and reusable skills to solve real-world tasks more reliably.
+
+- 🎓 Software Engineering student at **Nankai University**
+- 🔭 Currently exploring **RAG**, **NLP**, **Knowledge Graphs**, and **AI Agents**
+- 🌱 Learning how to build reliable AI-powered systems with external knowledge
+- 🧠 Interested in knowledge-enhanced reasoning, retrieval, and agent workflows
+- 📝 Personal website: [hzin-hh.github.io](https://hzin-hh.github.io/)
+
+---
+
+### 🔍 Research Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Knowledge%20Graph-Graph%20Reasoning-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Skill%20Composition-F97316?style=for-the-badge" />
+</p>
+
+---
+
+### 🚀 What I am working on
+
+#### Retrieval-Augmented Generation
+
+I am learning and exploring retrieval-augmented generation systems, especially how retrieval quality, document chunking, context integration, and citation reliability influence the final answers generated by large language models.
+
+#### Knowledge Graph Enhanced Retrieval
+
+I am interested in combining structured knowledge with semantic search.  
+This includes entity-relation organization, graph-based reasoning, and the use of knowledge graphs to improve retrieval and reasoning in LLM-based systems.
+
+#### Agent Skill Composition
+
+I am studying how agent capabilities can be packaged as reusable skills, retrieved according to task requirements, and composed into practical workflows.  
+I am also interested in how external tools, memory, and structured skill repositories can make agents more reliable.
+
+#### NLP Information Extraction
+
+I am building interest in natural language understanding, semantic representation, named entity recognition, relation extraction, and knowledge construction from text.
+
+#### LLM Applications
+
+I enjoy building useful systems around language models, domain knowledge, and real user tasks.
+
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,qt,git,github,vscode,linux,cmake,md" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,anaconda,latex" />
+
+</div>
+
+---
+
+### 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-Evaluation%20%26%20Retrieval-38BDF8?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM-Agent%20Workflow-A855F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-Information%20Extraction-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/KG-Graph%20Reasoning-F97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Useful%20Applications-14B8A6?style=flat-square" />
+</p>
+
+---
+
+### 🧩 Recent Interests
+
+- **RAG Evaluation**  
+  Retrieval quality, answer faithfulness, citation reliability, and hallucination mitigation.
+
+- **Knowledge Graph + LLM**  
+  Structured knowledge modeling, entity-relation organization, and graph-enhanced reasoning.
+
+- **AI Agent Systems**  
+  Tool use, workflow orchestration, long-context task execution, and reusable skill systems.
+
+- **NLP Information Extraction**  
+  Entity recognition, relation extraction, semantic representation, and knowledge base construction.
+
+- **LLM Applications**  
+  Building practical systems around language models and domain knowledge.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hzin-hh&show_icons=true&theme=vue&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hzin-hh&layout=compact&theme=vue&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hzin-hh&theme=vue&hide_border=true" />
+
+</div>
+
+---
+
+### 👀 Visitors
+
+<div align="center">
+
+Counting of visitors to this page started from **May 17, 2026**.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hzin-hh&style=flat-square&color=14B8A6&label=Profile%20Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! ⭐
+
+If you are interested in my repositories, feel free to submit PRs, open issues, or contact me by email.
+
+</div>
